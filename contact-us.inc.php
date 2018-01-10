@@ -1,19 +1,17 @@
 
 <div class="section-frame">
 <div class="container-fluid">
-   	<h1 class="section-title">Contact Us</h1><hr>
+   	<h1 class="section-title" align="center">Contact Us</h1><hr>
   </div>
 	<div class="container-fluid" >
 <div class="row" >
   <div class="col-sm-4" ><h3 class="mesa-name">MesaTech Corporation</h3>   
-          <address>
-<i class='fa fa-addres-card' aria-hidden='true'></i>100 Progress St.<br>
+          <address>100 Progress St.<br>
 Glen Rose, Texas 76043<br>
-<i class="fa fa-phone" aria-hidden="true"></i>Phone: <a href="tel://254-897-7910">(254) 897-7910 </a><br>
-<i class="fa fa-phone-square" aria-hidden="true"></i>Phone: <a href="tel://9726209400">(972) 620-9400</a><br>
+Phone: <a href="tel://254-897-7910">(254) 897-7910 </a><br>
+Phone: <a href="tel://9726209400">(972) 620-9400</a><br>
 Toll Free: <a href="tel://888-286-7759">(888) ATM-SPLY</a><br>
-<i class="fa fa-fax" aria-hidden="true"></i>Fax: (254) 897-4598<br>
-
+Fax: (254) 897-4598<br>
      </address>
      </div>
   <div class="col-sm-3">

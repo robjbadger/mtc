@@ -1,4 +1,4 @@
-<!-- <div id="mesanav">
+ <div id="mesanav">
 <nav class="navbar navbar-default local" id="mesanav">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -38,7 +38,7 @@
         echo "<ul class='dropdown-menu dropdown-content'>";
         echo "<li><a href='user.php?content=chemical'>Chemical Program</a></li>";
         echo "<li><a href='user.php?content=dispenser'>Dispenser Program</a></li>";
-        echo "<li><a href='user.php?content=../mesagreen'>MesaGreen</a></li>";
+        echo "<li><a href='user.php?content=../mesagreen'><span class='mesa-name'>Mesa</span><span style='color:forestgreen'>Green</span> </a></li>";
 
         echo  "</ul>";
 
@@ -83,4 +83,4 @@ echo "</li>";
     </div>
   </div>
 </nav>
--->
+<script src="https://use.fontawesome.com/5684041910.js"></script>

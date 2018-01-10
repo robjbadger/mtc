@@ -6,9 +6,10 @@
 
 .center {
     position: absolute;
-    top: 25%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
     
 }
 
@@ -18,12 +19,13 @@ img {
     opacity: 0.3;
 }
 	</style>
+<div class="section-frame">
 
 <div class="container">
-  <img src="images/mission-statement.jpg" alt="mission" width="1200" height="500">
-	<div class="col-sm-12 center">
-	<div class="section-title center"><h2 class="mesa-name">Mission Statement</h2>
-<p >To serve and enhance human life by building responsible business relationships and stewarding our resources well; while providing environmentally friendly consumable supplies.</p>
-	</div>
+    <div class="sm-6 md-12">
+  <img src="images/mission-statement.jpg" alt="mission-statement"  class="img-responsive center-block">
+  <h2 class="center mesa-name">Mission Statement:<br>
+To serve and enhance human life by building responsible business relationships and stewarding<br>our resources well; while providing environmentally friendly consumable supplies.</h2>
+    </div>
 </div>
-
+</div>

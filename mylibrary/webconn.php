@@ -5,7 +5,7 @@
 define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'mezdec17');
 define('DB_PASSWORD', 'K96,C}kK0K}J');
-define('DB_NAME', 'mezadb');
+define('DB_NAME', 'local-mezadb');
  
 /* Attempt to connect to MySQL database */
 $dbc = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);

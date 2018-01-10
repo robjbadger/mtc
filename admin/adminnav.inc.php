@@ -32,7 +32,7 @@
 					echo " <li><a href='admin.php?content=newuser'>Create user</a></li>";
 					echo "<li class='divider'></li>";
 					echo "<li><a href='admin.php?content=custmgt'>Customer Management</a></li>";
-					echo "<li><a herf='admin.php?content=newcust'>Create Customer</a></li>";
+				//	echo "<li><a herf='admin.php?content=newcust'>Create Customer</a></li>";
 
 					echo "</ul>";
 					echo "</li>";
@@ -55,7 +55,8 @@
 						$cname = $row['cname'];
 						echo "<li><a href='admin.php?content=viewcatalogs&id=$catalogid&name=$cname'>$cname</a></li>";
 					}
-                                             echo "<li><a href='admin.php?content=catalogs'>View All</a></li>";
+echo "<li class='divider'></li>";
+                                           echo "<li><a href='admin.php?content=newcatalog'>New Catalog</a></li>";
 						echo "</ul>";
 
 echo"</li>";
@@ -99,10 +100,11 @@ echo "<li class='divider'></li>";;
 
 
 					echo "</ul>";
-					 } 
+					} 
 
 					?>
 			</div>
 		</div>
 	</nav>
 </div>
+

@@ -7,23 +7,23 @@
     <li data-target="#carousel1" data-slide-to="4"></li>
   </ol>
   <div class="carousel-inner" role="listbox">
-    <div class="item active"><img src="images/home-sliders/mesa-s1.jpg" alt="First slide image" class="center-block">
+    <div class="item active"><img src="images/home-sliders/slide.jpg" alt="First slide image" class="center-block">
       <div class="carousel-caption">
       </div>
     </div>
-    <div class="item"><img src="../images/home-sliders/slide1.jpg" alt="Second slide image" class="center-block">
+    <div class="item"><img src="images/home-sliders/slide2.jpg" alt="Second slide image" class="center-block">
       <div class="carousel-caption">
       </div>
     </div>
-    <div class="item"><img src="../images/home-sliders/mesa-s3.jpg" alt="Third slide image" class="center-block">
+    <div class="item"><img src="images/home-sliders/slide3.jpg" alt="Third slide image" class="center-block">
       <div class="carousel-caption">
       </div>
     </div>
-        <div class="item"><img src="../images/home-sliders/mesa-s9.jpg" alt="Foruth slide image" class="center-block">
+        <div class="item"><img src="images/home-sliders/slide4.jpg" alt="Foruth slide image" class="center-block">
       <div class="carousel-caption">
       </div>
     </div>
-            <div class="item"><img src="../images/home-sliders/mesa-s6.jpg" alt="Fifth slide image" class="center-block">
+            <div class="item"><img src="images/home-sliders/slide5.jpg" alt="Fifth slide image" class="center-block">
       <div class="carousel-caption">
       </div>
     </div>

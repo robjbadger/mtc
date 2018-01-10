@@ -5,31 +5,30 @@
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
   <i class="fa fa-bars" aria-hidden="true"></i>                      
       </button>
-      <a class="navbar-brand" id="mesanav" href="file:///Macintosh HD/Users/robertb/Downloads/mesaprd-1-4-18/mylibrary/index.php"><img src="file:///Macintosh HD/Users/robertb/Downloads/mesaprd-1-4-18/mylibrary/favicon-16x16.png" alt="mesatech ico"></a>
+      <a class="navbar-brand" id="mesanav" href="index.php"><img src="favicon-16x16.png" alt="mesatech ico"></a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="file:///Macintosh HD/Users/robertb/Downloads/mesaprd-1-4-18/mylibrary/index.php"><i class="fa fa-home" style='font-size:18px'></i> </a></li>
-       <li class="active"></li>
-      <li><a href="file:///Macintosh HD/Users/robertb/Downloads/mesaprd-1-4-18/mylibrary/index.php?content=vendor">Vendors</a></li>
-      <li><a href="file:///Macintosh HD/Users/robertb/Downloads/mesaprd-1-4-18/mylibrary/index.php?content=about">About</a></li>
-      <li><a href="file:///Macintosh HD/Users/robertb/Downloads/mesaprd-1-4-18/mylibrary/index.php?content=contact-us">Contact</a></li>
+        <li class="active"><a href="index.php"><i class="fa fa-home" style='font-size:18px'></i> </a></li>
+      <li><a href="index.php?content=vendor">Vendors</a></li>
+      <li><a href="index.php?content=about">About</a></li>
+      <li><a href="index.php?content=contact-us">Contact</a></li>
 
               <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Wholesale <span class="caret"></span></a>
           <ul class="dropdown-menu dropdown-content">
-            <li><a href="file:///Macintosh HD/Users/robertb/Downloads/mesaprd-1-4-18/mylibrary/users/user.php">C-Store</a></li>
-            <li><a href="file:///Macintosh HD/Users/robertb/Downloads/mesaprd-1-4-18/mylibrary/users/user.php">ATM Supplies</a></li>
-            <li><a href="file:///Macintosh HD/Users/robertb/Downloads/mesaprd-1-4-18/mylibrary/users/user.php">Programs</a></li>
+            <li><a href="user/user.php">C-Store</a></li>
+            <li><a href="user/user.php">ATM Supplies</a></li>
+            <li><a href="user/user.php">Programs</a></li>
           </ul>
         </li>
-      <li><a href="file:///Macintosh HD/Users/robertb/Downloads/mesaprd-1-4-18/mylibrary/index.php?content=users/retail">Retail</a></li>
+      <li><a href="index.php?content=users/retail">Retail</a></li>
       <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Responsibility <span class="caret"></span></a>
       <ul class="dropdown-menu dropdown-content">
-		<li><a href="file:///Macintosh HD/Users/robertb/Downloads/mesaprd-1-4-18/mylibrary/index.php?content=corporate">Corporate Responsibility</a></li>
-		  <li><a href="file:///Macintosh HD/Users/robertb/Downloads/mesaprd-1-4-18/mylibrary/index.php?content=mission">Mission Statement</a> </li>
-		 <li><a href="file:///Macintosh HD/Users/robertb/Downloads/mesaprd-1-4-18/mylibrary/index.php?content=socialresp">Social Responsibility</a> </li>
-<li><a href="file:///Macintosh HD/Users/robertb/Downloads/mesaprd-1-4-18/mylibrary/index.php?content=mesagreen">MesaGreen</a></li>	
+		<li><a href="index.php?content=corporate">Corporate Responsibility</a></li>
+		  <li><a href="index.php?content=mission">Mission Statement</a> </li>
+		 <li><a href="index.php?content=socialresp">Social Responsibility</a> </li>
+<li><a href="index.php?content=../mylibrary/mesagreen">MesaGreen</a></li>	
 
       </ul>
       	
@@ -37,7 +36,7 @@
       </ul>
       <ul class="nav navbar-nav navbar-right">
        
-       <li><a href="file:///Macintosh HD/Users/robertb/Downloads/mesaprd-1-4-18/mylibrary/index.php?content=mylibrary/userregistration" class="btn btn-mesa" style='font-size:18px'><i class="fa fa-user-plus" style='font-size:18px'></i> Sign Up</a></li>
+       <li><a href="index.php?content=mylibrary/UserRegistration" class="btn btn-mesa" style='font-size:18px'><i class="fa fa-user-plus" style='font-size:18px'></i> Sign Up</a></li>
      
             <li><a href="#myModalLogin" type="button" class="btn btn-mesa" data-toggle="modal" data-target="#myModalLogin"><i class="fa fa-sign-in" style="font-size:18px"></i> Login</a>
 </li>
@@ -59,7 +58,7 @@
           <h4 class="modal-title">Please Login</h4>
         </div>
         <div class="modal-body">
-      <form class="form-horizontal" action = "file:///Macintosh HD/Users/robertb/Downloads/mesaprd-1-4-18/mylibrary/mylibrary/validate.php" method = "post">
+      <form class="form-horizontal" action = "mylibrary/validate.php" method = "post">
   <div class="form-group">
     <label class="control-label col-sm-2" for="userid">Username:</label>
     <div class="col-sm-10">

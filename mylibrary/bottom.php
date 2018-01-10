@@ -44,11 +44,11 @@
 				<li>
 					<h5>MesaTech Policies</h5>
 				</li>
-				<li><a href="index.php?content=../credit">Credit Policy</a>
+				<li><a href="index.php?content=credit">Credit Policy</a>
 				</li>
-				<li><a href="index.php?content=../terms">Terms &amp; Conditions</a>
+				<li><a href="index.php?content=terms">Terms &amp; Conditions</a>
 				</li>
-				<li><a href="index.php?content=../privacy">Privacy Policies</a>
+				<li><a href="index.php?content=privacy">Privacy Policies</a>
 				</li>
 
 
@@ -64,7 +64,7 @@
 			<ul class="list-unstyled">
 				<li>
 					<h5>Programs</h5> </li>
-				<li> <a href="index.php?content=../logistics">Logistic Support</a>
+				<li> <a href="index.php?content=logistics">Logistic Support</a>
 				</li>
 
 				</li>
@@ -77,13 +77,15 @@
 				<li>
 					<h5>Responsibility</h5>
 				</li>
-				<li> <a href="index.php?content=../diversity">Diversity</a>
+		
 				</li>
-				<li><a href="index.php?content=../corporate">Corporate Responsibility</a>
+				<li><a href="index.php?content=mylibrary/corporate">Corporate Responsibility</a>
 				</li>
 				<li><a href="index.php?content=../socialresp">Social Responsibility</a>
 				</li>
 				</li>
+				<!-- <li><a href="index.php?content=mylibrary/diversity">Diversity</a></li>"; -->
+
 
 			</ul>
 

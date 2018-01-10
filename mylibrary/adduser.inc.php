@@ -13,8 +13,6 @@ $firstn = $_POST['firstname'];
 $lastn = $_POST['lastname'];
 $phone = $_POST['phone'];
 $ext = $_POST['ext'];
-$roleid = 1;
-$catalogid = 101;
 $email = $_POST['email'];
 $password1 = $_POST['password1'];
 $cpassword = $_POST['cpassword'];
@@ -81,7 +79,7 @@ if($baduser != 1)
   $ext = msyqli_real_escape_string($ext);
   $email = msyqli_real_escape_string($email);
   $password1 = mysqli_real_escape_string($password1);
-	$query  = "INSERT INTO users(userid, firstname, lastname, phone, ext, roleid, catalogid, email, password) VALUES ('$userid', '$firstn', '$lastn', '$phone', '$ext','$email', '$roleid', '$catalogid', PASSWORD('$password1'),$catalogid)";
+	$query  = "INSERT INTO users(userid, firstname, lastname, phone, ext, email, password) VALUES ('$userid', '$firstn', '$lastn', '$phone', '$ext','$email', '$roleid', PASSWORD('$password1'),$catalogid)";
 	$result = mysqli_query($dbc, $query) or die ('<center>Sorry, unable to process your request'.mysqli_error().'</center>');
   $row = mysqli_affected_rows($dbc);
 	if($row>0){
