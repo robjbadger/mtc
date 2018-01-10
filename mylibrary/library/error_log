@@ -1,0 +1,10 @@
+[09-Jan-2018 12:57:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'www.mesatechcorp.com:3306' (0) in /home/badgertex/public_html/mylibrary/library/MysqliDb.php on line 287
+[09-Jan-2018 13:00:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'www.mesatechcorp.com:3306' (0) in /home/badgertex/public_html/mylibrary/library/MysqliDb.php on line 287
+[09-Jan-2018 13:01:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'www.mesatechcorp.com:3306' (0) in /home/badgertex/public_html/mylibrary/library/MysqliDb.php on line 287
+[09-Jan-2018 13:11:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'www.mesatechcorp.com:3306' (0) in /home/badgertex/public_html/mylibrary/library/MysqliDb.php on line 287
+[09-Jan-2018 13:50:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'www.mesatechcorp.com:3306' (0) in /home/badgertex/public_html/mylibrary/library/MysqliDb.php on line 287
+[09-Jan-2018 13:53:27 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'www.mesatechcorp.com:3306' (0) in /home/badgertex/public_html/mylibrary/library/MysqliDb.php on line 287
+[09-Jan-2018 13:53:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'www.mesatechcorp.com:3306' (0) in /home/badgertex/public_html/mylibrary/library/MysqliDb.php on line 287
+[09-Jan-2018 13:55:28 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'www.mesatechcorp.com:3306' (0) in /home/badgertex/public_html/mylibrary/library/MysqliDb.php on line 287
+[09-Jan-2018 13:56:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'www.mesatechcorp.com:3306' (0) in /home/badgertex/public_html/mylibrary/library/MysqliDb.php on line 287
+[09-Jan-2018 13:57:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host 'www.mesatechcorp.com:3306' (0) in /home/badgertex/public_html/mylibrary/library/MysqliDb.php on line 287

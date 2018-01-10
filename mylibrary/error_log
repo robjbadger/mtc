@@ -1,0 +1,15 @@
+[30-Dec-2017 21:08:05 UTC] PHP Notice:  Undefined index: userid in /home/badgertex/public_html/mylibrary/validate.php on line 16
+[30-Dec-2017 21:08:17 UTC] PHP Notice:  Undefined index: userid in /home/badgertex/public_html/mylibrary/validate.php on line 16
+[02-Jan-2018 19:10:25 UTC] PHP Notice:  Undefined index: userid in /home/badgertex/public_html/mylibrary/validate.php on line 16
+[02-Jan-2018 19:10:38 UTC] PHP Notice:  Undefined index: userid in /home/badgertex/public_html/mylibrary/validate.php on line 16
+[03-Jan-2018 17:50:11 UTC] PHP Notice:  Undefined index: userid in /home/badgertex/public_html/mylibrary/validate.php on line 16
+[07-Jan-2018 03:34:41 UTC] PHP Notice:  Undefined index: cat in /home/badgertex/public_html/mylibrary/printcat.php on line 52
+[07-Jan-2018 03:34:41 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/mylibrary/printcat.php on line 53
+[07-Jan-2018 03:34:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/mylibrary/printcat.php on line 71
+[08-Jan-2018 16:39:23 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/badgertex/public_html/mylibrary/webconn.php on line 19
+[08-Jan-2018 16:39:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/badgertex/public_html/mylibrary/webconn.php on line 20
+[08-Jan-2018 16:39:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/mylibrary/webconn.php on line 20
+[09-Jan-2018 12:14:27 UTC] PHP Warning:  include(../mylibrary/loginalerts.php): failed to open stream: No such file or directory in /home/badgertex/public_html/mylibrary/printcat.php on line 47
+[09-Jan-2018 12:14:27 UTC] PHP Warning:  include(): Failed opening '../mylibrary/loginalerts.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/badgertex/public_html/mylibrary/printcat.php on line 47
+[09-Jan-2018 12:16:17 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/badgertex/public_html/mylibrary/printcat.php on line 49
+[09-Jan-2018 12:16:25 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/badgertex/public_html/mylibrary/printcat.php on line 49

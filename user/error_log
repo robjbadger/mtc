@@ -1,0 +1,959 @@
+[13-Dec-2017 13:46:49 UTC] PHP Notice:  Undefined index: mesa_user in /home/badgertex/public_html/user/account.inc.php on line 10
+[13-Dec-2017 14:04:19 UTC] PHP Parse error:  syntax error, unexpected '_blank' (T_STRING), expecting ',' or ';' in /home/badgertex/public_html/user/viewcat.inc.php on line 15
+[13-Dec-2017 14:04:23 UTC] PHP Parse error:  syntax error, unexpected '_blank' (T_STRING), expecting ',' or ';' in /home/badgertex/public_html/user/viewcat.inc.php on line 15
+[13-Dec-2017 14:04:25 UTC] PHP Parse error:  syntax error, unexpected '_blank' (T_STRING), expecting ',' or ';' in /home/badgertex/public_html/user/viewcat.inc.php on line 15
+[13-Dec-2017 14:04:36 UTC] PHP Parse error:  syntax error, unexpected '_blank' (T_STRING), expecting ',' or ';' in /home/badgertex/public_html/user/viewcat.inc.php on line 15
+[21-Dec-2017 12:41:00 UTC] PHP Notice:  Undefined index: description in /home/badgertex/public_html/user/printcat.php on line 55
+[21-Dec-2017 12:43:13 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 55
+[21-Dec-2017 13:12:15 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:12:15 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:12:18 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:12:18 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:12:20 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:12:20 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:12:56 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:12:56 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:12:59 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:12:59 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:13:02 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:13:02 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:13:04 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:13:04 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:13:06 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:13:06 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:13:08 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:13:08 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:13:10 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:13:10 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:13:15 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:13:15 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:13:18 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:13:18 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:13:21 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:13:21 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:13:30 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:13:30 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:13:32 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[21-Dec-2017 13:13:32 UTC] PHP Notice:  Undefined variable: url in /home/badgertex/public_html/user/custnav.inc.php on line 46
+[22-Dec-2017 14:16:05 UTC] PHP Notice:  Undefined variable: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 26
+[22-Dec-2017 14:16:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/viewcat.inc.php on line 28
+[22-Dec-2017 14:16:08 UTC] PHP Notice:  Undefined variable: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 26
+[22-Dec-2017 14:16:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/viewcat.inc.php on line 28
+[22-Dec-2017 14:16:11 UTC] PHP Notice:  Undefined variable: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 26
+[22-Dec-2017 14:16:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/viewcat.inc.php on line 28
+[22-Dec-2017 14:16:12 UTC] PHP Notice:  Undefined variable: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 26
+[22-Dec-2017 14:16:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/viewcat.inc.php on line 28
+[22-Dec-2017 14:16:13 UTC] PHP Notice:  Undefined variable: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 26
+[22-Dec-2017 14:16:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/viewcat.inc.php on line 28
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[22-Dec-2017 14:19:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[24-Dec-2017 00:37:54 UTC] PHP Warning:  include(company.php): failed to open stream: No such file or directory in /home/badgertex/public_html/user/account.inc.php on line 34
+[24-Dec-2017 00:37:54 UTC] PHP Warning:  include(): Failed opening 'company.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/badgertex/public_html/user/account.inc.php on line 34
+[24-Dec-2017 00:39:07 UTC] PHP Warning:  include(company.php): failed to open stream: No such file or directory in /home/badgertex/public_html/user/account.inc.php on line 34
+[24-Dec-2017 00:39:07 UTC] PHP Warning:  include(): Failed opening 'company.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/badgertex/public_html/user/account.inc.php on line 34
+[26-Dec-2017 19:58:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 30
+[26-Dec-2017 20:00:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 32
+[26-Dec-2017 20:06:59 UTC] PHP Notice:  Undefined variable: user in /home/badgertex/public_html/user/custnav.inc.php on line 77
+[26-Dec-2017 20:07:02 UTC] PHP Notice:  Undefined variable: user in /home/badgertex/public_html/user/custnav.inc.php on line 77
+[26-Dec-2017 20:07:04 UTC] PHP Notice:  Undefined variable: user in /home/badgertex/public_html/user/custnav.inc.php on line 77
+[26-Dec-2017 20:08:46 UTC] PHP Notice:  Undefined variable: user in /home/badgertex/public_html/user/custnav.inc.php on line 77
+[26-Dec-2017 21:04:36 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 28
+[26-Dec-2017 21:04:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 35
+[26-Dec-2017 21:05:42 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 28
+[26-Dec-2017 21:05:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 35
+[26-Dec-2017 21:07:50 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 27
+[26-Dec-2017 21:07:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 34
+[26-Dec-2017 21:10:53 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:10:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:10:57 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:10:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:11:00 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:11:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:11:01 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:11:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:12:18 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:12:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:15:13 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:15:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:15:38 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:15:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:19:55 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:19:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:20:30 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:20:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:20:33 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:20:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:20:35 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:20:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:20:38 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:20:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:20:40 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:20:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:21:47 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:21:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:22:20 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:22:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:25:03 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:25:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:25:44 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:25:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:26:12 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:26:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:26:27 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:26:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:26:53 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:26:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:28:55 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:28:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:29:09 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:29:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:29:41 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:29:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[26-Dec-2017 21:57:33 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[26-Dec-2017 21:57:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[27-Dec-2017 02:11:53 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[27-Dec-2017 02:11:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[27-Dec-2017 02:11:59 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[27-Dec-2017 02:11:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[27-Dec-2017 02:12:07 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 29
+[27-Dec-2017 02:12:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 36
+[27-Dec-2017 02:18:41 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 26
+[27-Dec-2017 02:18:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 33
+[27-Dec-2017 02:30:24 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 26
+[27-Dec-2017 02:30:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 33
+[27-Dec-2017 02:32:47 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 26
+[27-Dec-2017 02:32:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 33
+[27-Dec-2017 02:33:26 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 26
+[27-Dec-2017 02:33:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 33
+[27-Dec-2017 02:36:31 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 25
+[27-Dec-2017 02:36:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 32
+[27-Dec-2017 02:36:34 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 25
+[27-Dec-2017 02:36:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 32
+[27-Dec-2017 02:37:45 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 25
+[27-Dec-2017 02:37:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 32
+[27-Dec-2017 02:47:42 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 25
+[27-Dec-2017 02:47:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 32
+[27-Dec-2017 02:52:35 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 25
+[27-Dec-2017 02:52:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 32
+[27-Dec-2017 02:52:37 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 25
+[27-Dec-2017 02:52:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 32
+[27-Dec-2017 02:52:51 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 25
+[27-Dec-2017 02:52:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 32
+[27-Dec-2017 02:54:11 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 25
+[27-Dec-2017 02:54:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 32
+[27-Dec-2017 02:54:50 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 25
+[27-Dec-2017 02:54:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 32
+[27-Dec-2017 02:54:53 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 25
+[27-Dec-2017 02:54:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 32
+[27-Dec-2017 02:55:07 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 25
+[27-Dec-2017 02:55:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 32
+[27-Dec-2017 02:55:12 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 25
+[27-Dec-2017 02:55:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 32
+[27-Dec-2017 02:55:28 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 25
+[27-Dec-2017 02:55:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 32
+[27-Dec-2017 03:02:47 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 25
+[27-Dec-2017 03:02:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 32
+[27-Dec-2017 03:03:02 UTC] PHP Notice:  Undefined index: catalog_id in /home/badgertex/public_html/user/custnav.inc.php on line 25
+[27-Dec-2017 03:03:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 32
+[27-Dec-2017 12:11:00 UTC] PHP Notice:  Undefined index: mesa_user in /home/badgertex/public_html/user/account.inc.php on line 10
+[27-Dec-2017 12:11:25 UTC] PHP Notice:  Undefined index: mesa_user in /home/badgertex/public_html/user/account.inc.php on line 10
+[27-Dec-2017 12:17:23 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 55
+[27-Dec-2017 12:29:17 UTC] PHP Notice:  Undefined index: cat in /home/badgertex/public_html/user/nwp.inc.php on line 11
+[27-Dec-2017 12:29:17 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/nwp.inc.php on line 12
+[27-Dec-2017 12:29:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/nwp.inc.php on line 28
+[27-Dec-2017 12:32:14 UTC] PHP Notice:  Undefined index: cat in /home/badgertex/public_html/user/nwp.inc.php on line 11
+[27-Dec-2017 12:32:14 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/nwp.inc.php on line 12
+[27-Dec-2017 12:32:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/nwp.inc.php on line 28
+[27-Dec-2017 12:35:56 UTC] PHP Notice:  Undefined index: cat in /home/badgertex/public_html/user/nwp.inc.php on line 11
+[27-Dec-2017 12:35:56 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/nwp.inc.php on line 12
+[27-Dec-2017 12:35:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/nwp.inc.php on line 28
+[27-Dec-2017 12:36:00 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 55
+[27-Dec-2017 12:36:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/printcat.php on line 72
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined variable: catid in /home/badgertex/public_html/user/nwp.inc.php on line 14
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:44:10 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined variable: catid in /home/badgertex/public_html/user/nwp.inc.php on line 14
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 12:45:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined variable: catid in /home/badgertex/public_html/user/nwp.inc.php on line 14
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:07:32 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:07:38 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 55
+[27-Dec-2017 13:07:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/printcat.php on line 72
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined variable: catid in /home/badgertex/public_html/user/nwp.inc.php on line 14
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 35
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 13:08:17 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 13:11:46 UTC] PHP Notice:  Undefined index: cat in /home/badgertex/public_html/user/nwp.inc.php on line 10
+[27-Dec-2017 13:11:46 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/nwp.inc.php on line 11
+[27-Dec-2017 13:11:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/nwp.inc.php on line 28
+[27-Dec-2017 13:13:19 UTC] PHP Notice:  Undefined index: cat in /home/badgertex/public_html/user/nwp.inc.php on line 10
+[27-Dec-2017 13:13:19 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/nwp.inc.php on line 11
+[27-Dec-2017 13:13:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/nwp.inc.php on line 28
+[27-Dec-2017 13:36:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/badgertex/public_html/user/custnav.inc.php on line 44
+[27-Dec-2017 13:37:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/badgertex/public_html/user/custnav.inc.php on line 44
+[27-Dec-2017 13:37:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/badgertex/public_html/user/custnav.inc.php on line 44
+[27-Dec-2017 13:37:21 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/badgertex/public_html/user/custnav.inc.php on line 44
+[27-Dec-2017 13:37:55 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 55
+[27-Dec-2017 13:43:32 UTC] PHP Notice:  Undefined index: cat in /home/badgertex/public_html/user/nwp.inc.php on line 10
+[27-Dec-2017 13:43:32 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/nwp.inc.php on line 11
+[27-Dec-2017 13:43:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/nwp.inc.php on line 28
+[27-Dec-2017 13:47:16 UTC] PHP Notice:  Undefined variable: catid in /home/badgertex/public_html/user/nwp.inc.php on line 12
+[27-Dec-2017 13:47:16 UTC] PHP Notice:  Undefined variable: query in /home/badgertex/public_html/user/nwp.inc.php on line 26
+[27-Dec-2017 13:47:16 UTC] PHP Warning:  mysqli_query(): Empty query in /home/badgertex/public_html/user/nwp.inc.php on line 26
+[27-Dec-2017 13:47:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/nwp.inc.php on line 27
+[27-Dec-2017 13:48:00 UTC] PHP Notice:  Undefined variable: catid in /home/badgertex/public_html/user/nwp.inc.php on line 12
+[27-Dec-2017 13:48:00 UTC] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/badgertex/public_html/user/nwp.inc.php on line 26
+[27-Dec-2017 13:48:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/badgertex/public_html/user/nwp.inc.php on line 27
+[27-Dec-2017 13:48:03 UTC] PHP Notice:  Undefined variable: catid in /home/badgertex/public_html/user/nwp.inc.php on line 12
+[27-Dec-2017 13:48:03 UTC] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/badgertex/public_html/user/nwp.inc.php on line 26
+[27-Dec-2017 13:48:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/badgertex/public_html/user/nwp.inc.php on line 27
+[27-Dec-2017 13:48:22 UTC] PHP Notice:  Undefined variable: catid in /home/badgertex/public_html/user/nwp.inc.php on line 12
+[27-Dec-2017 13:48:22 UTC] PHP Warning:  mysqli_query() expects parameter 2 to be string, object given in /home/badgertex/public_html/user/nwp.inc.php on line 26
+[27-Dec-2017 13:48:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/badgertex/public_html/user/nwp.inc.php on line 27
+[27-Dec-2017 13:48:41 UTC] PHP Parse error:  syntax error, unexpected '105' (T_LNUMBER) in /home/badgertex/public_html/user/nwp.inc.php on line 25
+[27-Dec-2017 13:48:48 UTC] PHP Parse error:  syntax error, unexpected '105' (T_LNUMBER) in /home/badgertex/public_html/user/nwp.inc.php on line 25
+[27-Dec-2017 13:48:54 UTC] PHP Parse error:  syntax error, unexpected '105' (T_LNUMBER) in /home/badgertex/public_html/user/nwp.inc.php on line 25
+[27-Dec-2017 13:49:36 UTC] PHP Notice:  Undefined variable: catid in /home/badgertex/public_html/user/nwp.inc.php on line 12
+[27-Dec-2017 13:49:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:49:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:23 UTC] PHP Notice:  Undefined variable: catid in /home/badgertex/public_html/user/nwp.inc.php on line 12
+[27-Dec-2017 13:51:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:51:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:54:28 UTC] PHP Notice:  Undefined variable: catid in /home/badgertex/public_html/user/nwp.inc.php on line 12
+[27-Dec-2017 13:57:53 UTC] PHP Notice:  Undefined variable: catid in /home/badgertex/public_html/user/nwp.inc.php on line 12
+[27-Dec-2017 13:58:40 UTC] PHP Warning:  include(showimages.inc.php): failed to open stream: No such file or directory in /home/badgertex/public_html/user/user.php on line 52
+[27-Dec-2017 13:58:40 UTC] PHP Warning:  include(): Failed opening 'showimages.inc.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/badgertex/public_html/user/user.php on line 52
+[27-Dec-2017 13:59:25 UTC] PHP Notice:  Undefined variable: catid in /home/badgertex/public_html/user/nwp.inc.php on line 12
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 13:59:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined variable: name in /home/badgertex/public_html/user/nwp.inc.php on line 15
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:01:59 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined variable: name in /home/badgertex/public_html/user/nwp.inc.php on line 15
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:02:42 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:02:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:02:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined variable: name in /home/badgertex/public_html/user/nwp.inc.php on line 15
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod in /home/badgertex/public_html/user/nwp.inc.php on line 36
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod2 in /home/badgertex/public_html/user/nwp.inc.php on line 37
+[27-Dec-2017 14:03:06 UTC] PHP Notice:  Undefined index: assocprod3 in /home/badgertex/public_html/user/nwp.inc.php on line 38
+[27-Dec-2017 14:03:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:03:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:06:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/showimage.php on line 9
+[27-Dec-2017 14:09:16 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 55
+[30-Dec-2017 15:54:51 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 55
+[30-Dec-2017 16:28:58 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 53
+[30-Dec-2017 16:29:59 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 53
+[30-Dec-2017 16:43:55 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 53
+[30-Dec-2017 16:44:26 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 53
+[30-Dec-2017 16:53:46 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 53
+[30-Dec-2017 16:54:30 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 53
+[30-Dec-2017 16:55:53 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 53
+[30-Dec-2017 16:57:08 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 53
+[30-Dec-2017 16:58:05 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 53
+[30-Dec-2017 16:58:41 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 53
+[30-Dec-2017 20:55:29 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 53
+[30-Dec-2017 22:24:21 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ',' or ';' in /home/badgertex/public_html/user/usermain.inc.php on line 13
+[30-Dec-2017 22:24:48 UTC] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE), expecting ',' or ';' in /home/badgertex/public_html/user/usermain.inc.php on line 13
+[31-Dec-2017 17:40:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/badgertex/public_html/user/custnav.inc.php on line 109
+[31-Dec-2017 18:05:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/badgertex/public_html/user/custnav.inc.php on line 98
+[31-Dec-2017 18:05:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/badgertex/public_html/user/custnav.inc.php on line 98
+[31-Dec-2017 18:05:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/badgertex/public_html/user/custnav.inc.php on line 98
+[06-Jan-2018 02:09:55 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 53
+[07-Jan-2018 01:25:09 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/custnav.inc.php on line 33
+[07-Jan-2018 01:25:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 37
+[07-Jan-2018 01:25:22 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/custnav.inc.php on line 33
+[07-Jan-2018 01:25:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 37
+[07-Jan-2018 01:30:32 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/custnav.inc.php on line 33
+[07-Jan-2018 01:30:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 37
+[07-Jan-2018 01:30:37 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/custnav.inc.php on line 33
+[07-Jan-2018 01:30:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 37
+[07-Jan-2018 01:31:41 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/custnav.inc.php on line 33
+[07-Jan-2018 01:31:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 37
+[07-Jan-2018 01:38:22 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/custnav.inc.php on line 33
+[07-Jan-2018 01:38:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 37
+[07-Jan-2018 01:38:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/badgertex/public_html/user/viewcat.inc.php on line 22
+[07-Jan-2018 01:40:32 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/custnav.inc.php on line 33
+[07-Jan-2018 01:40:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 37
+[07-Jan-2018 01:40:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/badgertex/public_html/user/viewcat.inc.php on line 22
+[07-Jan-2018 01:40:48 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/custnav.inc.php on line 33
+[07-Jan-2018 01:40:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 37
+[07-Jan-2018 01:41:27 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/custnav.inc.php on line 33
+[07-Jan-2018 01:41:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 37
+[07-Jan-2018 01:42:33 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/custnav.inc.php on line 33
+[07-Jan-2018 01:42:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 37
+[07-Jan-2018 01:44:43 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/custnav.inc.php on line 33
+[07-Jan-2018 01:44:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 37
+[07-Jan-2018 01:45:13 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/custnav.inc.php on line 22
+[07-Jan-2018 01:45:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 26
+[07-Jan-2018 01:45:46 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/custnav.inc.php on line 24
+[07-Jan-2018 01:45:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/custnav.inc.php on line 28
+[07-Jan-2018 01:48:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/badgertex/public_html/user/viewcat.inc.php on line 22
+[07-Jan-2018 01:49:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/badgertex/public_html/user/viewcat.inc.php on line 22
+[07-Jan-2018 01:49:20 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/badgertex/public_html/user/viewcat.inc.php on line 22
+[07-Jan-2018 01:49:22 UTC] PHP Warning:  include(../mylibrary/user.bottom.php): failed to open stream: No such file or directory in /home/badgertex/public_html/user/user.php on line 53
+[07-Jan-2018 01:49:22 UTC] PHP Warning:  include(): Failed opening '../mylibrary/user.bottom.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/badgertex/public_html/user/user.php on line 53
+[07-Jan-2018 01:52:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/badgertex/public_html/user/viewcat.inc.php on line 22
+[07-Jan-2018 01:56:45 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/badgertex/public_html/user/viewcat.inc.php on line 23
+[07-Jan-2018 01:56:47 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/badgertex/public_html/user/viewcat.inc.php on line 23
+[07-Jan-2018 01:56:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/badgertex/public_html/user/viewcat.inc.php on line 23
+[07-Jan-2018 02:58:35 UTC] PHP Notice:  Undefined index: cat in /home/badgertex/public_html/user/printcat.php on line 52
+[07-Jan-2018 02:58:35 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 53
+[07-Jan-2018 02:58:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/printcat.php on line 71
+[07-Jan-2018 03:03:27 UTC] PHP Notice:  Undefined index: cat in /home/badgertex/public_html/user/printcat.php on line 52
+[07-Jan-2018 03:03:27 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 53
+[07-Jan-2018 03:03:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/printcat.php on line 71
+[07-Jan-2018 03:04:52 UTC] PHP Notice:  Undefined index: cat in /home/badgertex/public_html/user/printcat.php on line 52
+[07-Jan-2018 03:04:52 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 53
+[07-Jan-2018 03:04:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/printcat.php on line 71
+[07-Jan-2018 03:25:23 UTC] PHP Notice:  Undefined index: cat in /home/badgertex/public_html/user/printcat.php on line 52
+[07-Jan-2018 03:25:23 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 53
+[07-Jan-2018 03:25:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/printcat.php on line 71
+[07-Jan-2018 03:25:49 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 12
+[07-Jan-2018 03:25:51 UTC] PHP Notice:  Undefined index: cat in /home/badgertex/public_html/user/printcat.php on line 52
+[07-Jan-2018 03:25:51 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 53
+[07-Jan-2018 03:25:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/printcat.php on line 71
+[07-Jan-2018 03:27:12 UTC] PHP Notice:  Undefined index: cat in /home/badgertex/public_html/user/printcat.php on line 52
+[07-Jan-2018 03:27:12 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 53
+[07-Jan-2018 03:27:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/printcat.php on line 71
+[07-Jan-2018 03:27:54 UTC] PHP Notice:  Undefined index: cat in /home/badgertex/public_html/user/printcat.php on line 52
+[07-Jan-2018 03:27:54 UTC] PHP Notice:  Undefined index: name in /home/badgertex/public_html/user/printcat.php on line 53
+[07-Jan-2018 03:27:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/badgertex/public_html/user/printcat.php on line 71
+[07-Jan-2018 03:27:59 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 12
+[07-Jan-2018 03:28:01 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 12
+[07-Jan-2018 03:28:18 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 12
+[07-Jan-2018 03:28:20 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 12
+[07-Jan-2018 03:30:10 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 12
+[07-Jan-2018 03:30:12 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 12
+[07-Jan-2018 03:30:58 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 12
+[07-Jan-2018 03:31:44 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 12
+[07-Jan-2018 03:33:03 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 12
+[07-Jan-2018 03:33:25 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 12
+[07-Jan-2018 03:34:27 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 12
+[07-Jan-2018 03:36:10 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 12
+[07-Jan-2018 03:37:22 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 12
+[07-Jan-2018 03:39:55 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 12
+[08-Jan-2018 12:44:06 UTC] PHP Warning:  include(../mylibrary/loginalert.php): failed to open stream: No such file or directory in /home/badgertex/public_html/user/viewcat.inc.php on line 7
+[08-Jan-2018 12:44:06 UTC] PHP Warning:  include(): Failed opening '../mylibrary/loginalert.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/badgertex/public_html/user/viewcat.inc.php on line 7
+[09-Jan-2018 14:09:47 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 12
+[09-Jan-2018 14:09:55 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 12
+[09-Jan-2018 14:11:44 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 12
+[09-Jan-2018 14:12:43 UTC] PHP Notice:  Undefined index: catalogid in /home/badgertex/public_html/user/viewcat.inc.php on line 12
