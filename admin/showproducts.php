@@ -1,7 +1,6 @@
 <?php
 function showproducts($catid, $page, $currentpage, $newpage){
 	error_reporting(0);
-	include "webconn.php";
 $catid = $_GET['cat'];
 $name = $_GET['name'];
 $sql = "SELECT COUNT(prodid) FROM `products` WHERE catid =$catid";

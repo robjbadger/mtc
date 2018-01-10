@@ -2,7 +2,7 @@
 header("Content-type: image/jpeg");
 
 $prodid=$_GET['id'];
-include "../mylibrary/connection.php";
+include "../mylibrary/webconn.php";
 
 $query= "SELECT picture FROM products WHERE prodid = $prodid";
 $result = mysqli_query($dbc, $query);

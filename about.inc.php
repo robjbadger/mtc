@@ -6,7 +6,7 @@
 <p><span class="mesa-name">MesaTech</span> has provided both standard and customized retail store supplies in both the Financial commodities sector and C-store sector for nearly two decades. During this time, we have come to learn and influence many different businesses. MesaTech’s reputation in the Industry has been built on the foundation of customer satisfaction, ethical standards and community involvement.</p></div>
 <div class="container">
 <center>
-<img src="images/aboutus.png" alt="about-us-image" class="image-responsive" width="1100">
+<img src="images/aboutus.jpg" alt="about-us-image" class="image-responsive" width="1100">
 </center></div>
 <div class="container">
 <p>

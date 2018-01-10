@@ -4,14 +4,14 @@
 <div class="btn-group btn-group-justified" role="group" aria-label="...">
 
 	<div class="btn-group" role="group"  aria-label="...">
-		<a href="#myModalLogin" type="button" class="btn btn-mesa" data-toggle="modal" data-target="#myModalLogin"><span class="glyphicon glyphicon-log-in"></span>&nbsp; Login</a>
+		<a href="#myModalLogin" type="button" class="btn btn-mesa" data-toggle="modal" data-target="#myModalLogin"><i class="fa fa-sign-in"></i>&nbsp; Login</a>
 
 	</div>
 	<div class="btn-group" role="group" aria-label="...">
-		<a type="button" class="btn btn-mesa" href="index.php?content=credit" title="Credit Policy"><span class="glyphicon glyphicon-credit-card"></span>&nbsp; Credit Policy</a>
+		<a type="button" class="btn btn-mesa" href="index.php?content=credit" title="Credit Policy"><i class="fa fa-credit" aria-hidden="true"></i>&nbsp; Credit Policy</a>
 	</div>
 	<div class="btn-group" role="group" aria-label="...">
-		<a type="button" class="btn btn-mesa" href="index.php?content=privacy" title="Privacy Policy"><span class="glyphicon glyphicon-sunglasses"></span>&nbsp; Privacy Policy</a>
+		<a type="button" class="btn btn-mesa" href="index.php?content=privacy" title="Privacy Policy">&nbsp; Privacy Policy</a>
 	</div>
 	<div class="btn-group" role="group" aria-label="...">
 		<a type="button" class="btn btn-mesa" href="index.php?content=terms" title="Terms and Conditions">Terms &amp; Conditions</a>
@@ -44,11 +44,11 @@
 				<li>
 					<h5>MesaTech Policies</h5>
 				</li>
-				<li><a href="index.php?content=credit">Credit Policy</a>
+				<li><a href="index.php?content=../credit">Credit Policy</a>
 				</li>
-				<li><a href="index.php?content=terms">Terms &amp; Conditions</a>
+				<li><a href="index.php?content=../terms">Terms &amp; Conditions</a>
 				</li>
-				<li><a href="index.php?content=privacy">Privacy Policies</a>
+				<li><a href="index.php?content=../privacy">Privacy Policies</a>
 				</li>
 
 
@@ -64,11 +64,11 @@
 			<ul class="list-unstyled">
 				<li>
 					<h5>Programs</h5> </li>
-				<li> <a href="index.php?content=logistics">Logistic Support</a>
+				<li> <a href="index.php?content=../logistics">Logistic Support</a>
 				</li>
 
 				</li>
-				<li> <a href="index.php?content=mesagreen"><span class="mesa-name">Mesa</span><span style="color:forestgreen">Green</span></a> </li>
+				<li> <a href="index.php?content=../mesagreen"><span class="mesa-name">Mesa</span><span style="color:forestgreen">Green</span></a> </li>
 			</ul>
 		</div>
 		<div class="col-sm-4 col-md-2 col-lg-2 col-xs-6">
@@ -77,11 +77,11 @@
 				<li>
 					<h5>Responsibility</h5>
 				</li>
-				<li> <a href="index.php?content=diversity">Diversity</a>
+				<li> <a href="index.php?content=../diversity">Diversity</a>
 				</li>
-				<li><a href="index.php?content=corporate">Corporate Responsibility</a>
+				<li><a href="index.php?content=../corporate">Corporate Responsibility</a>
 				</li>
-				<li><a href="index.php?content=socialresp">Social Responsibility</a>
+				<li><a href="index.php?content=../socialresp">Social Responsibility</a>
 				</li>
 				</li>
 

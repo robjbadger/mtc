@@ -1,6 +1,6 @@
 
 <?php
-include "webconn.php";
+
 error_reporting(1);
 
 if(!$dbc){

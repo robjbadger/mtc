@@ -4,7 +4,7 @@
 <?php
 if(!isset($_SESSION['mesa_user']))
 {
-include "../mylibrary/loginalert.php";
+include "../admin/newcatalog.inc.php";
  }
  else{ 
 	 $catid = $_GET['cat'];

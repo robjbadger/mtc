@@ -3,7 +3,7 @@
 	
 <div class="container section-frame">
 	<center>
-		<img src="images/corporate-res.png" class="responsive-image" alt="corporate responsibility" width="935">
+		<img src="images/corporate-res.jpg" class="responsive-image" alt="corporate responsibility" width="935">
 	</center>
 	<div class="section-title"><h2 class="mesa-name">Corporate Responsibility Statement</h2><hr></div>
 <p>

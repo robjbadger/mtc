@@ -3,7 +3,7 @@
 <?php
 
 if(!isset($_SESSION['mesa_admin'])){
-            include "..mylibrary/loginalert.inc.php";
+            include "../mylibrary/loginalert.inc.php";
 }else
 {
 include "../mylibrary/showproducts.php";

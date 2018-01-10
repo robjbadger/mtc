@@ -40,7 +40,7 @@ session_start();
     <a href='admin.php?content=productlookup' class='close' data-dismiss='alert' aria-label='close'>&times;</a><strong>Error:</strong> You must be logged in to view that information.</div>";
 }else{
 
-include "../mylibrary/connection.php";
+include "../mylibrary/webconn.php";
 
 echo $dbc." is connected!";
 

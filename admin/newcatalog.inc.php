@@ -6,7 +6,7 @@
   <?php 
 	if(!isset($_SESSION['mesa_admin']))
 {
-	include "../mylibrary/loginalert.php";
+	include "newcatalog.inc.php";
  }
  else{ 
 

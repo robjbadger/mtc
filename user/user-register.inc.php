@@ -1,5 +1,5 @@
 <?php 
-include "../connection.php";
+include "../mylibrary/webconn.php";
 $firstname = $_POST['firstname'];
 $lastname = $_POST['lastname'];
 $address = $_POST['address'];

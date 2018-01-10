@@ -5,7 +5,7 @@
 	</center>
 </div>
 			<div class="col-sm-12">
-			<a class="btn btn-justified" role="button" data-toggle="collapse" href="#collapsePrivacy" aria-expanded="false" aria-controls="collapsePrivacy">	<h1 style="color:#00234c; text-align:center; font-family:Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', 'serif';" id="privacy">Privacy Policy</h1></a>
+			<a class="btn btn-justified" role="button" data-toggle="collapse" href="images/mission-statement.jpg" aria-expanded="false" aria-controls="collapsePrivacy">	<h1 style="color:#00234c; text-align:center; font-family:Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', 'serif';" id="privacy">Privacy Policy</h1></a>
 				<hr>
 			</div>
 			<div class="col-sm-12">

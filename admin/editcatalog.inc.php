@@ -4,7 +4,7 @@ $catalogid = $_GET['id'];
 <div class="section-frame">
 <h1 class="section-title" align="center">Catalog Details</h1><hr>
 <div class="container">
-<form class="horizontal-form" action="update-catalog.php" method="post">
+<form class="horizontal-form" action="changecatalog.inc.php" method="post">
 
 <?php 
 $sql = "SELECT name, created, modified, good_until FROM catalogs WHERE catalogid = $catalogid";

@@ -23,7 +23,7 @@ session_start();
 
 	<div id="wrapper">
 	<div id="mesanav">
-	<?php include "pubnav.php"; ?>
+	<?php include "mylibrary/pubnav.php"; ?>
 </div>
 			<!-- /top common code -->
 		<!-- content -->	
@@ -68,7 +68,7 @@ $(document).ready(function(){
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins)  --> 
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script src="mylibrary/pubnav.php"></script>
 
  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>

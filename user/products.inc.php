@@ -23,7 +23,7 @@ border-collapse:collapse;'
 
 
 
-      <?php include "../mylibrary/connection.php"; ?>
+      <?php include "../mylibrary/webconn.php"; ?>
 <?php include "custnav.inc.php"; ?>
 
 <div id="wrapper";>
