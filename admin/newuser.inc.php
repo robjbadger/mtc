@@ -52,7 +52,7 @@ if(!isset($_SESSION['mesa_admin']))
 							while($row = mysqli_fetch_array($result, MYSQLI_ASSOC)){
 								$roleid = $row['roleid'];
 								$name = $row['name'];
-								echo "<option name='$roleid'>$name</option>";
+								echo "<option value='$roleid'>$name</option>";
 							}
 						
 					
@@ -76,7 +76,7 @@ if(!isset($_SESSION['mesa_admin']))
 							while($row = mysqli_fetch_array($resultci, MYSQLI_ASSOC)){
 								$custid = $row['custid'];
 								$company_name = $row['company_name'];
-								echo "<option name='$custid'>$company_name</option>";
+								echo "<option value='$custid'>$company_name</option>";
 							}
 						
 					

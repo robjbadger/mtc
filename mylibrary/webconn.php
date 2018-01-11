@@ -2,10 +2,13 @@
 
 
 
-define('DB_SERVER', 'localhost');
+define('DB_SERVER', 'www.mesatechcorp.com:3306');
 define('DB_USERNAME', 'mezdec17');
 define('DB_PASSWORD', 'K96,C}kK0K}J');
-define('DB_NAME', 'local-mezadb');
+define('DB_NAME', 'mezadb');
+
+
+
  
 /* Attempt to connect to MySQL database */
 $dbc = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
@@ -14,7 +17,7 @@ $dbc = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
 if($dbc === false){
     die("ERROR: Could not connect. " . mysqli_connect_error());
 }
-/*
+
 else{
 
 
@@ -27,8 +30,7 @@ else{
     <strong>Success!</strong> connected to database: $dname </div>"; 
 }
 	
-	
-*/	
+}
 
 
 mysqli_set_charset($dbc,"utf8");

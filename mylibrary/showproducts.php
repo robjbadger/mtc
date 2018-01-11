@@ -53,7 +53,7 @@ echo "</div>";
 
 		if($thispage >1){
 			$page = $thispage - 1;
-			$prevpage = "<li><a href='$currentpage&cat=$catid&page=$page&name=$name'><i class='fa fa-hand-o-left' aria-hidden='true'></i></a></li>";
+			$prevpage = "<li><a href='$currentpage&cat=$catid&page=$page&name=$name'><i class='fa fa-arrow-circle-left' aria-hidden='true'></i></a></li>";
 		}else{
 			$prevpage = " ";
 		}
@@ -62,7 +62,7 @@ echo "</div>";
 
 			$page = $thispage + 1;
 
-			$nextpage = "<li><a href='$currentpage&cat=$catid&page=$page&name=$name'><i class='fa fa-hand-o-right' aria-hidden='true'></i></a><li>";
+			$nextpage = "<li><a href='$currentpage&cat=$catid&page=$page&name=$name'><i class='fa fa-arrow-cirle-right' aria-hidden='true'></i></a><li>";
 		}else{
 			$nextpage = " ";
 		}

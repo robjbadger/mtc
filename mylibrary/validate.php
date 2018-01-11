@@ -18,7 +18,7 @@ $userid = $_POST['userid'];
 $password = $_POST['password'];
 
 
-$query = "SELECT userid, firstname, roleid, catalogid from users where userid = '$userid' and password = PASSWORD('$password')";
+$query = "SELECT roleid, catalogid from users where userid = '$userid' and password = PASSWORD('$password')";
 
 $result = mysqli_query($dbc, $query);
 
@@ -28,7 +28,7 @@ if (mysqli_num_rows($result) == 0)
 
 {
 echo "<div class='alert alert-danger alert-dismissable fade in'>
-    <a href='user.php' class='close' data-dismiss='alert' aria-label='close'><i class='fa fa-window-close' aria-hidden='true'></i></a>
+    <a href='index.php' class='close' data-dismiss='alert' aria-label='close'><i class='fa fa-window-close' aria-hidden='true'></i></a>
     <strong>Error!</strong>  Username and password do not match our records </div>";
 
 } else

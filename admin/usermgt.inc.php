@@ -1,3 +1,4 @@
+
 <div class="section-frame">
 
 <h1 class="section-title" align="center">User Management</h1><hr>
@@ -22,7 +23,7 @@
 		$role = $row['roleid'];
 		$custid = $row['custid'];
 	
-		echo "<tr><td>$userid<td>$first_name</td><td>$last_name</td><td>$email</td><td>$role</td><td>$custid</td><td><a href='admin.php?content=edituser&id=$uid'>Edit</a></td></tr>";
+		echo "<tr><td>$userid<td>$first_name</td><td>$last_name</td><td>$email</td><td>$role</td><td>$custid</td><td> &nbsp; <a href='admin.php?content=edituser&id=$uid' ><i class='fa fa-edit' aria-hidden='true'></i></a> &nbsp; <a href='admin.php?content=deleteuser&id=$uid' ><i class='fa fa-trash' style='font-size:14'></i></a></td></tr>";
 	}
 	
 
